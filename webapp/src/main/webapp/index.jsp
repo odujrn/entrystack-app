@@ -62,7 +62,7 @@
 
     <form action="action_page.php">
         <div class="container">
-            <h1>Register for EntryStack-App</h1>
+            <h1>EntryStack-App Login: Access Your Dashboard</h1>
             <p>Please fill in this form to create an account.</p>
             <hr>
 
